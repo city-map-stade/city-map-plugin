@@ -29,5 +29,5 @@ Bereitstellung des Plugins
 
 
 ## FAQ
-# Sind Lizenzen direkt im Plugin mit integriert?
+### Sind Lizenzen direkt im Plugin mit integriert?
 Nein, die Lizenzen müssen separat eingetragen werden. 
