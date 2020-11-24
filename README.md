@@ -22,6 +22,9 @@ Danach kommt ein Info-Feld, dass Plugins, die noch nicht installiert wurden, ins
 
 ## Changelog
 
+### Version 1.0.3
+Update der Plugins auf den Stand 24.11.2020
+
 ### Version 1.0.2 
 Elementor "normal" hinzugefügt
 
