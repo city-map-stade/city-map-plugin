@@ -36,6 +36,13 @@ function city_map_register_required_plugins() {
 		),
 		
 		array(
+			'name'               => 'Borlabs Cookie',
+			'slug'               => 'borlabs-cookie',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/borlabs.zip',
+			'required'           => true,
+		),
+		
+		array(
 			'name'               => 'Custom CSS & JS',
 			'slug'               => 'custom-css-js',
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/custom-css.zip',
