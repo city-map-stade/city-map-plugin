@@ -50,7 +50,7 @@ function city_map_register_required_plugins() {
 			'slug'               => 'custom-css-js',
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/custom-css.zip',
 			'required'           => true,
-			// Version 3.33
+			// Version 3.34
 		),
 		
 		array(
