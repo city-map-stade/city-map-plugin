@@ -18,15 +18,18 @@ Danach kommt ein Info-Feld, dass Plugins, die noch nicht installiert wurden, ins
 8. Wordfence
 9. WP Mail SMTP
 10. Borlabs Cookie
+11. Elementor "normal"
 
 ## Changelog
+
+### Version 1.0.2 
+Elementor "normal" hinzugefügt
 
 ### Version 1.0.1
 Borlabs Cookie hinzugefügt
 
 ### Version 1.0
 Bereitstellung des Plugins
-
 
 ## FAQ
 ### Sind Lizenzen direkt im Plugin mit integriert?

@@ -57,6 +57,13 @@ function city_map_register_required_plugins() {
 		),
 		
 		array(
+			'name'               => 'Elementor',
+			'slug'               => 'elementor',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/elementor.zip',
+			'required'           => true,
+		),
+		
+		array(
 			'name'               => 'Elementor Pro',
 			'slug'               => 'elementor-pro',
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/elementor-pro.zip',
