@@ -137,7 +137,7 @@ function city_map_register_required_plugins() {
 			'name'               => 'YOAST SEO',
 			'slug'               => 'wordpress-seo',
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/yoast.zip',
-			'required'           => true,
+			'required'           => true, 
 			// Version 2.5.1
 		)
 
