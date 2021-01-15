@@ -107,7 +107,41 @@ function city_map_register_required_plugins() {
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/wp-mail-smtp.zip',
 			'required'           => true,
 			// Version 2.5.1
+		),
+		
+		array(
+			'name'               => 'WP Mail SMTP',
+			'slug'               => 'wp-mail-smtp.2.4.0',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/wp-mail-smtp.zip',
+			'required'           => true,
+			// Version 2.5.1
+		),
+
+		array(
+			'name'               => 'WP Mail SMTP',
+			'slug'               => 'wp-mail-smtp.2.4.0',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/wp-mail-smtp.zip',
+			'required'           => true,
+			// Version 2.5.1
+		),
+		
+		array(
+			'name'               => 'REAL MEDIA LIBARY',
+			'slug'               => 'real-media-library-lite',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/real-media-library-lite.zip',
+			'required'           => true,
+			// Version 2.5.1
+		),
+		
+		array(
+			'name'               => 'YOAST SEO',
+			'slug'               => 'wordpress-seo',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/yoast.zip',
+			'required'           => true,
+			// Version 2.5.1
 		)
+
+
 	);
 	
 	$config = array(
