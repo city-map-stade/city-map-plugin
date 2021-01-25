@@ -19,6 +19,8 @@ Danach kommt ein Info-Feld, dass Plugins, die noch nicht installiert wurden, ins
 9. WP Mail SMTP
 10. Borlabs Cookie
 11. Elementor "normal"
+12. Real Media Libary Free Version
+13. Yoast SEO
 
 ## Changelog
 
