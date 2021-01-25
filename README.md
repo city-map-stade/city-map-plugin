@@ -22,6 +22,9 @@ Danach kommt ein Info-Feld, dass Plugins, die noch nicht installiert wurden, ins
 
 ## Changelog
 
+### Version 1.0.4
+RealMedia Libery in der FreeVersion sowie YOAST SEO hinzugefügt
+
 ### Version 1.0.3
 Update der Plugins auf den Stand 24.11.2020
 
