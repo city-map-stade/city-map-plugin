@@ -21,8 +21,15 @@ Danach kommt ein Info-Feld, dass Plugins, die noch nicht installiert wurden, ins
 11. Elementor "normal"
 12. Real Media Libary Free Version
 13. Yoast SEO
+14. Enable Media Replace
 
 ## Changelog
+
+### Version 1.0.6
+OMGF auf Grund von Problemen mit Elementor entfernt
+
+### Version 1.0.5 
+Enable Media Replace hinzugefügt
 
 ### Version 1.0.4
 RealMedia Libery in der FreeVersion sowie YOAST SEO hinzugefügt

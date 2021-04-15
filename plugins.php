@@ -78,6 +78,14 @@ function city_map_register_required_plugins() {
 		),
 		
 		array(
+			'name'               => 'Enable Media Replace',
+			'slug'               => 'enable-media-replace',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/enable-media-replace.zip',
+			'required'           => true,
+			// Version 3.0.0
+		),
+		
+		array(
 			'name'               => 'eRecht24',
 			'slug'               => 'erecht24',
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/erecht24.zip',
@@ -101,22 +109,6 @@ function city_map_register_required_plugins() {
 			// Version 7.4.12
 		),
 		
-		array(
-			'name'               => 'WP Mail SMTP',
-			'slug'               => 'wp-mail-smtp.2.4.0',
-			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/wp-mail-smtp.zip',
-			'required'           => true,
-			// Version 2.5.1
-		),
-		
-		array(
-			'name'               => 'WP Mail SMTP',
-			'slug'               => 'wp-mail-smtp.2.4.0',
-			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/wp-mail-smtp.zip',
-			'required'           => true,
-			// Version 2.5.1
-		),
-
 		array(
 			'name'               => 'WP Mail SMTP',
 			'slug'               => 'wp-mail-smtp.2.4.0',
