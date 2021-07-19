@@ -131,6 +131,14 @@ function city_map_register_required_plugins() {
 			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/yoast.zip',
 			'required'           => true, 
 			// Version 2.5.1
+		),
+		
+		array(
+			'name'               => 'Statify',
+			'slug'               => 'statify',
+			'source'             => 'https://wordpress.internet-erfolg.de/_plugins/statify.zip',
+			'required'           => true, 
+			// Version 2.5.1
 		)
 
 
