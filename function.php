@@ -748,7 +748,7 @@ if ( ! class_exists( 'TGM_Plugin_Activation' ) ) {
 			$plugin_table = new TGMPA_List_Table;
 
 			// Return early if processing a plugin installation action.
-			if ( ( ( 'tgmpa-bulk-install' === $plugin_table->current_action() || 'tgmpa-bulk-update' === $plugin_table->current_action() ) && $plugin_table->process_bulk_actions() ) || $this->do_plugin_install() ) {
+			if ( ( ( 'tgmpa-bulk-install' === $plugin_table->current_action() || 'tgmpa-bulk-update' === $plugin_table->current_action() )  ) || $this->do_plugin_install() ) {
 				return;
 			}
 
@@ -2981,10 +2981,8 @@ if ( ! class_exists( 'TGMPA_List_Table' ) ) {
 					$this->tgmpa->inject_update_info( $to_inject );
 
 					$installer->bulk_upgrade( $file_paths );
-				} else {
-					$installer->bulk_install( $sources );
-				}
-
+				} 
+				
 				remove_filter( 'upgrader_source_selection', array( $this->tgmpa, 'maybe_adjust_source_dir' ), 1 );
 
 				echo '</div></div>';
@@ -3376,7 +3374,7 @@ if ( ! function_exists( 'tgmpa_load_bulk_installer' ) ) {
 									'clear_working'     => true,
 									'is_multi'          => true,
 									'hook_extra'        => array(
-										'plugin' => $plugin,
+									'plugin' => $plugin,
 									),
 								)
 							);
